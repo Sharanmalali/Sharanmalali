@@ -3,7 +3,10 @@
 🚀 Enthusiastic about crafting intuitive applications and bringing creative tech ideas to reality  
 🛠 Currently building exciting projects using Flutter to deliver polished user experiences  
 📲 Enjoy bridging imagination and technology to solve everyday challenges  
-🌟 Constantly exploring new concepts, tools, and ways to level up  
+🌟 Constantly exploring new concepts, tools, and ways to level up 
+💡 Passionate about problem-solving and analytical thinking
+🧠 Actively learning data structures, algorithms, and clean coding practices
+🔍 Exploring diverse areas of technology including AI, cloud, and backend systems
 🤝 Always open to teamwork, new opportunities, and meaningful collaborations!
 
 ---
