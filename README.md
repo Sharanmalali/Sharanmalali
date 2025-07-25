@@ -1,13 +1,14 @@
-# 💫 About Me:
+## 💫 About Me:
 
-🚀 Enthusiastic about crafting intuitive applications and bringing creative tech ideas to reality \n
-🛠 Currently building exciting projects using Flutter to deliver polished user experiences \n
-📲 Enjoy bridging imagination and technology to solve everyday challenges \n
-🌟 Constantly exploring new concepts, tools, and ways to level up \n
-💡 Passionate about problem-solving and analytical thinking \n
-🧠 Actively learning data structures, algorithms, and clean coding practices \n
-🔍 Exploring diverse areas of technology including AI, cloud, and backend systems \n
-🤝 Always open to teamwork, new opportunities, and meaningful collaborations!\n
+🚀 Enthusiastic about crafting intuitive applications and bringing creative tech ideas to reality  
+🛠 Currently building exciting projects using Flutter to deliver polished user experiences  
+📲 Enjoy bridging imagination and technology to solve everyday challenges  
+🌟 Constantly exploring new concepts, tools, and ways to level up  
+💡 Passionate about problem-solving and analytical thinking  
+🧠 Actively learning data structures, algorithms, and clean coding practices  
+🔍 Exploring diverse areas of technology including AI, cloud, and backend systems  
+🤝 Always open to teamwork, new opportunities, and meaningful collaborations!  
+
 
 
 
